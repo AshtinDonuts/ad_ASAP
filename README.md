@@ -8,22 +8,11 @@ Updates:
 
 24 Apr 2025 - Started project
 
---
+Below is content from the original repository
+---
 
 This repository contains the official code and dataset of [ASAP: Automated Sequence Planning for Complex Robotic Assembly with Physical Feasibility (ICRA 2024)](http://asap.csail.mit.edu).
 
-<p align="middle">
-  <img src="images/assembly-01115.gif" width="24%" />
-  <img src="images/assembly-01234.gif" width="24%" /> 
-  <img src="images/assembly-02099.gif" width="24%" />
-  <img src="images/assembly-03212.gif" width="24%" />
-</p>
-
-<p align="middle">
-  <img src="images/robot-00833.gif" width="30%" />
-  <img src="images/robot-01235.gif" width="30%" /> 
-  <img src="images/robot-01434.gif" width="30%" />
-</p>
 
 **Authors**: Yunsheng Tian, Karl D.D. Willis, Bassel Al Omari, Jieliang Luo, Pingchuan Ma, Yichen Li, Farhad Javid, Edward Gu, Joshua Jacob, Shinjiro Sueda, Hui Li, Sachin Chitta, Wojciech Matusik
 
