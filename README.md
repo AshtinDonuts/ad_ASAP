@@ -1,6 +1,6 @@
 # Ashtin Donuts' forked ASAP
 
-This forked repo adds functionalities to support the hardware we will use at the Embodied AI and Robotic Vision Research Group at UofA.
+<code style="color : purple">This forked repo adds functionalities to support the hardware we will use at the Embodied AI and Robotic Vision Research Group at UofA.</code>
 
 We will use it to implement and experiment with a real-world deployment of ASAP (Tian et al., 2024).
 
