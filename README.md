@@ -4,9 +4,18 @@ This forked repo adds functionalities to support the hardware we will use at the
 
 We will use it to implement and experiment with a real-world deployment of ASAP (Tian et al., 2024).
 
-Updates:
+## Expected hardware setup:
+* Viper X 6+1 DoF articulated arm
+* GPU - RTX 4090
+* Intel Realsense D405 cameras
 
-24 Apr 2025 - Started project
+## Additional equipment
+* 3D printed CAD file for beam assembly
+* Custom hardwood for fixing articulated arms
+
+### Updates:
+
+* 24 Apr 2025 - Started project
 
 Below is content from the original repository
 ---
