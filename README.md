@@ -1,4 +1,14 @@
-# ASAP
+# Ashtin Donuts' forked ASAP
+
+This forked repo adds functionalities to support the hardware we will use at the Embodied AI and Robotic Vision Research Group at UofA.
+
+We will use it to implement and experiment with a real-world deployment of ASAP (Tian et al., 2024).
+
+Updates:
+
+24 Apr 2025 - Started project
+
+--
 
 This repository contains the official code and dataset of [ASAP: Automated Sequence Planning for Complex Robotic Assembly with Physical Feasibility (ICRA 2024)](http://asap.csail.mit.edu).
 
