@@ -1,10 +1,24 @@
 # Project-specific
 assets/train_assembly
 assets/test_assembly
+assets/beam_assembly
 plan_sequence/generator/network/*.pt
 *.sdf
 *.dae
 *.zip
+
+# King fork
+test_assembly/
+train_assembly/
+simulation
+results/
+logs/
+gifs/
+images/
+data_labelling/
+training_assembly/
+test_assembly/
+
 
 .vscode
 .DS_Store

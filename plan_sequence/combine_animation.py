@@ -7,6 +7,9 @@ def combine_animation(record_dir, output_path, reverse):
 
     frames = []
     file_path_list = []
+    assert os.path.isdir(record_dir), f"Directory {record_dir} not exist"
+    if len(os.listdir(record_dir)) == 0:
+        raise FileExistsError(f"No videos in directory {record_dir}")
     for file_name in os.listdir(record_dir):
         if file_name.endswith('.gif'):
             file_path = os.path.join(record_dir, file_name)
